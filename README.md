@@ -2,9 +2,6 @@
 
 Accede al Diccionario [aquí](./diccionario-malgache.pdf).
 
-> Siendo voluntaria en las comunidades de Anstirabe, Antananarivo, Tsiroanomandidy y Ankadinondry descubrí que la riqueza no siempre se mide en dinero.
-> Vi sonrisas que iluminan, manos que comparten lo poco que tienen y una fuerza que nace de la esperanza. Su gente alegre, generosa y trabajadora me enseñó que la resiliencia es un arte.
-
 Pequeño diccionario es una iniciativa creada para promover la enseñanza y el aprendizaje del idioma malgache y del idioma español para hablantes de malgache (malagasy).
 Este pequeño diccionario contiene traducciones para las expresiones y palabras más comunes en distintas temáticas, incluyendo:
 - FIARAHABANA : Saludos
@@ -42,5 +39,4 @@ Si te interesa participar en esta causa y apoyar la educación en niños de esca
 
 ## Autoría
 Patricia Amórtegui,
-en colaboración con la Comunidad de Hermanas Trinitarias en Madagascar.  
 Contacto: glopaa@yahoo.com
